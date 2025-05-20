@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322679576354",
+    "project_id": "woof-50502",
+    "storage_bucket": "woof-50502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322679576354:android:d78b9d70b73995b1e3777b",
+        "android_client_info": {
+          "package_name": "com.example.zaprojektni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVQLFIteBYHPhq4vjC8TXKg7QwLlNejE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
